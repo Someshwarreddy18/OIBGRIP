@@ -1,3 +1,8 @@
-# Converter Celsius to Fahrenheit (1.0.0 release)
+<center>Task 3 <br> Temperature Converter</center>
+
+
+- [Click Here to visit site](https://someshwarreddy18.github.io/OIBGRIP/Task%201/)
+
+<hr>
 https://someshwarreddy18.github.io/OIBGRIP/Task%203/
 
